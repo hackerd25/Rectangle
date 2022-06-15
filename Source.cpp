@@ -3,7 +3,7 @@
 int main()
 {
     unsigned short A = 10;
-    unsigned short B = 69;
+    unsigned short B = 17;
     unsigned short P = A + B + A + B;
     unsigned short S = A * B;
 
